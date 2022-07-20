@@ -1,0 +1,285 @@
+#EXTM3U	
+	#EXTINF:-1 group-title="",TVP 1 HD
+http://91.228.34.236:8001/	1:0:1:3ABD:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TVP 2 HD
+http://91.228.34.236:8001/	1:0:1:C22:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",TVP Dokument HD
+http://91.228.34.236:8001/	1:0:1:3A9D:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TVP HD
+http://91.228.34.236:8001/	1:0:1:1138:2AF8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TVP Seriale
+http://91.228.34.236:8001/	1:0:1:3D5C:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TVP Sport HD
+http://91.228.34.236:8001/	1:0:19:DB1:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",TVP Historia 
+http://91.228.34.236:8001/	1:0:1:3D67:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TVP Kultura
+http://91.228.34.236:8001/	1:0:1:3D59:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TVP Rozrywka
+http://91.228.34.236:8001/	1:0:1:4288:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="Info",TVP Info HD
+http://91.228.34.236:8001/	1:0:1:1139:2AF8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Polsat HD
+http://91.228.34.236:8001/	1:0:1:3391:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Polsat 2 HD
+http://91.228.34.236:8001/	1:0:1:339A:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Super Polsat
+http://91.228.34.236:8001/	1:0:1:339B:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Polsat Film HD
+http://91.228.34.236:8001/	1:0:1:3398:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Polsat Seriale HD
+http://91.228.34.236:8001/	1:0:1:3E30:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Polsat Sport HD 
+http://91.228.34.236:8001/	1:0:1:C1E:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Polsat Sport Extra HD
+http://91.228.34.236:8001/	1:0:1:C24:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",Polsat Viasat Nature
+http://91.228.34.236:8001/	1:0:1:2908:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Polsat Viasat Explore HD
+http://91.228.34.236:8001/	1:0:19:1CCA:1CE8:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",Polsat Viasat History HD
+http://91.228.34.236:8001/	1:0:1:C20:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",Polsat Dokument HD
+http://91.228.34.236:8001/	1:0:1:C23:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Info",Polsat News HD
+http://91.228.34.236:8001/	1:0:1:3399:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="Info",Polsat News 2
+http://91.228.34.236:8001/	1:0:16:3333:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TVN HD
+http://91.228.34.236:8001/	1:0:1:3DCD:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="Info",TVN Turbo HD
+http://91.228.34.236:8001/	1:0:1:3DD0:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TVN 7 HD
+http://91.228.34.236:8001/	1:0:1:3DD3:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TVN Fabula HD
+http://91.228.34.236:8001/	1:0:1:3DD6:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="Info",TVN 24 HD
+http://91.228.34.236:8001/	1:0:1:3DD2:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TV 4 HD
+http://91.228.34.236:8001/	1:0:1:3393:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",TV 6 HD
+http://91.228.34.236:8001/	1:0:1:3394:3390:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",TTV HD
+http://91.228.34.236:8001/	1:0:1:3DD7:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",TV Puls HD
+http://91.228.34.236:8001/	1:0:1:3D66:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Puls 2
+http://91.228.34.236:8001/	1:0:1:3D60:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Nowa TV
+http://91.228.34.236:8001/	1:0:1:429E:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",WP
+http://91.228.34.236:8001/	1:0:1:3D5A:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Metro
+http://91.228.34.236:8001/	1:0:1:4287:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Zoom TV
+http://91.228.34.236:8001/	1:0:1:4291:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Tele 5
+http://91.228.34.236:8001/	1:0:1:423B:3DB8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",ATM Rozrywka
+http://91.228.34.236:8001/	1:0:1:1CBA:1CE8:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Fashion TV
+http://91.228.34.236:8001/	1:0:1:DFA:1AF4:FBFF:820000:0:0:0:
+	#EXTINF:-1 group-title="",Cinemax HD
+http://91.228.34.236:8001/	1:0:19:1136:2AF8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Cinemax 2 HD
+http://91.228.34.236:8001/	1:0:1:C26:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Kino TV
+http://91.228.34.236:8001/	1:0:1:3D61:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Filmbox Extra HD
+http://91.228.34.236:8001/	1:0:1:3D68:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Filmbox Family
+http://91.228.34.236:8001/	1:0:1:3D62:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Filmbox Premium 
+http://91.228.34.236:8001/	1:0:1:12c5:2e7c:13e:820000:0:0:0:
+	#EXTINF:-1 group-title="",Filmbox Action
+http://91.228.34.236:8001/	1:0:1:3D65:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Filmbox Arthouse
+http://91.228.34.236:8001/	1:0:1:428A:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Fox HD
+http://91.228.34.236:8001/	1:0:1:C27:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Fox Comedy HD
+http://91.228.34.236:8001/	1:0:1:C1F:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",AXN HD
+http://91.228.34.236:8001/	1:0:1:C25:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",AXN Spin HD
+http://91.228.34.236:8001/	1:0:1:3D5D:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",AXN White
+http://91.228.34.236:8001/	1:0:1:1C86:1CE8:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",AXN Black
+http://91.228.34.236:8001/	1:0:1:1C87:1CE8:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",SciFi 
+http://91.228.34.236:8001/	1:0:1:3e20:2ee0:13e:820000:0:0:0:
+	#EXTINF:-1 group-title="",Ale kino+ HD
+http://91.228.34.236:8001/	1:0:19:3781:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",AMC HD
+http://91.228.34.236:8001/	1:0:1:3AB7:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TNT HD
+http://91.228.34.236:8001/	1:0:1:2905:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",CBS Europa
+http://91.228.34.236:8001/	1:0:1:290B:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",CBS Action
+http://91.228.34.236:8001/	1:0:1:4282:2BC0:13E:820000:0:0:0
+	#EXTINF:-1 group-title="",CBS Reality HD
+http://91.228.34.236:8001/	1:0:1:3D5B:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Comedy Central HD 
+http://91.228.34.236:8001/	1:0:1:C:1964:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Comedy Central Family 
+http://91.228.34.236:8001/	1:0:1:10:1964:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Kino Polska 
+http://91.228.34.236:8001/	1:0:1:12c6:2e7c:13e:820000:0:0:0:
+	#EXTINF:-1 group-title="",Food Network HD
+http://91.228.34.236:8001/	1:0:1:3DD9:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Stopklatka TV
+http://91.228.34.236:8001/	1:0:1:427B:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",13 Ulica HD
+http://91.228.34.236:8001/	1:0:1:3E26:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",SundanceTV HD
+http://91.228.34.236:8001/	1:0:1:3E1D:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="Dok",Canal+ Dokument HD
+http://91.228.34.236:8001/	1:0:1:3A99:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Discovery Channel HD
+http://91.228.34.236:8001/	1:0:19:3AB8:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Discovery Historia
+http://91.228.34.236:8001/	1:0:16:DB2:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Discovery Life HD
+http://91.228.34.236:8001/	1:0:16:3D56:2C88:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Discovery Science HD
+http://91.228.34.236:8001/	1:0:19:290D:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",DTX
+http://91.228.34.236:8001/	1:0:19:3A9C:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Investigation Discovery HD
+http://91.228.34.236:8001/	1:0:19:3A9B:514:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",National Geographic Channel HD
+http://91.228.34.236:8001/	1:0:19:32DF:190:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Nat Geo People HD
+http://91.228.34.236:8001/	1:0:19:2907:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",National Geographic Wild HD
+http://91.228.34.236:8001/	1:0:1:1137:2AF8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",History HD
+http://91.228.34.236:8001/	1:0:1:C2F:1E78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",H2 HD
+http://91.228.34.236:8001/	1:0:19:3E22:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Adventure HD
+http://91.228.34.236:8001/	1:0:19:10E9:3E8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Animal Planet HD
+http://91.228.34.236:8001/	1:0:1:DB0:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",CRIME+INVESTIGATION Polsat
+http://91.228.34.236:8001/	1:0:1:c31:1e78:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",Planete+ 
+http://91.228.34.236:8001/	1:0:19:377E:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Lifetime HD
+http://91.228.34.236:8001/	1:0:1:3E27:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Kuchnia+ HD 
+http://91.228.34.236:8001/	1:0:1:37B1:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Domo+ HD
+http://91.228.34.236:8001/	1:0:1:13EF:5DC:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",TLC HD
+http://91.228.34.236:8001/	1:0:1:3E21:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",BBC Earth
+http://91.228.34.236:8001/	1:0:19:E08:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",BBC Lifestyle
+http://91.228.34.236:8001/	1:0:1:7DB:22C4:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",BBC FIRST
+http://91.228.34.236:8001/	1:0:1:E06:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",BBC Brit 
+http://91.228.34.236:8001/	1:0:19:7D6:22C4:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Water Planet
+http://91.228.34.236:8001/	1:0:16:423E:3DB8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",StudioMed TV
+http://91.228.34.236:8001/	1:0:1:12CB:2E7C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Motowizja HD
+http://91.228.34.236:8001/	1:0:19:3780:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Fokus TV
+http://91.228.34.236:8001/	1:0:1:429d:2bc0:13e:820000:0:0:0:
+	#EXTINF:-1 group-title="",Travel Channel HD 
+http://91.228.34.236:8001/	1:0:19:3DD8:640:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",HGTV 
+http://91.228.34.236:8001/	1:0:19:10EB:3E8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",E!
+http://91.228.34.236:8001/	1:0:1:3E1E:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Active Family
+http://91.228.34.236:8001/	1:0:1:113c:2af8:13e:820000:0:0:0:
+	#EXTINF:-1 group-title="",TBN Polska
+http://91.228.34.236:8001/	1:0:1:327:1:1:82B00F:0:0:0:
+	#EXTINF:-1 group-title="",Da Vini Learning
+http://91.228.34.236:8001/	1:0:1:4280:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Superstacja
+http://91.228.34.236:8001/	1:0:16:1CBE:1CE8:71:820000:0:0:0:
+	#EXTINF:-1 group-title="",TV Republika
+http://91.228.34.236:8001/	1:0:1:4289:2BC0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",wPolsce.pl
+http://91.228.34.236:8001/	1:0:1:4279:2BC0:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",MTV Polska HD
+http://91.228.34.236:8001/	1:0:1:F:1964:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",MTV Live HD
+http://91.228.34.236:8001/	1:0:19:1:1964:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",MTV Rocks
+http://91.228.34.236:8001/	1:0:1:1CB9:1CE8:71:820000:0:0:0:
+	#EXTINF:0 group-title="",4Fun.TV
+http://91.228.34.236:8001/	1:0:1:428D:2BC0:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",4FUN DANCE
+http://91.228.34.236:8001/	1:0:1:428F:2BC0:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",4Fun Hits
+http://91.228.34.236:8001/	1:0:1:428E:2BC0:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",ESKA TV
+http://91.228.34.236:8001/	1:0:1:429C:2BC0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",Kino Polska Muzyka
+http://91.228.34.236:8001/	1:0:1:DAE:2D50:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",Polo TV
+http://91.228.34.236:8001/	1:0:1:429A:2BC0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",Stars TV
+http://91.228.34.236:8001/	1:0:1:427F:2BC0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",POWER TV
+http://91.228.34.236:8001/	1:0:16:10E7:3E8:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",VOX Music TV
+http://91.228.34.236:8001/	1:0:1:3D57:2C88:13E:820000:0:0:0:
+	#EXTINF:0 group-title="",Disco Polo Music
+http://91.228.34.236:8001/	1:0:1:1C8C:1CE8:71:820000:0:0:0:
+	#EXTINF:0  group-title="",TRACE TV
+http://91.228.34.236:8001/	1:0:1:1134:2af8:13e:820000:0:0:0:
+	#EXTINF:0  group-title="",VH1
+http://91.228.34.236:8001/	1:0:1:8:1964:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",MEZZO
+http://91.228.34.236:8001/	1:0:1:29E5:3CF0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",ESKA TV Ekstra
+http://91.228.34.236:8001/	1:0:1:429B:2BC0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",Polsat Music HD
+http://91.228.34.236:8001/	1:0:1:4293:2BC0:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",Eska Rock
+http://91.228.34.236:8001/	1:0:1:3D63:2C88:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",NUTA TV
+http://91.228.34.236:8001/	1:0:1:10DD:3E8:13E:820000:0:0:0:
+	#EXTINF:0  group-title="",TO!TV/EZOTV
+http://91.228.34.236:8001/	1:0:16:10E8:3E8:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Canal+ HD
+http://91.228.34.236:8001/	1:0:1:32DC:190:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Canal+ 1 
+http://91.228.34.236:8001/	1:0:1:13ED:5DC:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Canal+ Film 
+http://91.228.34.236:8001/	1:0:1:3779:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Canal+ Family HD
+http://91.228.34.236:8001/	1:0:19:377B:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Canal+ Seriale 
+http://91.228.34.236:8001/	1:0:19:3782:44C:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="",Canal+ NOW
+http://91.228.34.236:8001/	1:0:1:32CD:190:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",HBO HD
+http://91.228.34.236:8001/	1:0:19:290E:1EDC:71:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",HBO 2 HD
+http://91.228.34.236:8001/	1:0:1:E09:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",HBO 3 HD
+http://91.228.34.236:8001/	1:0:1:E0A:2D50:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Eurosport 1 HD
+http://91.228.34.236:8001/	1:0:1:3E25:2EE0:13E:820000:0:0:0:
+	#EXTINF:-1 group-title="EURO",Eurosport 2 HD
+http://91.228.34.236:8001/	1:0:1:290C:1EDC:71:820000:0:0:0:
+	#EXTINF:0 tvg-id="HustlerTV.us" group-title="+18",Hustler HD
+http://91.228.34.236:8001/	1:0:19:4220:2f44:13e:820000:0:0:0:
+	#EXTINF:0 tvg-id="Dorcel.ero" group-title="+18",Dorcel TV HD
+http://91.228.34.236:8001/	1:0:1:4205:2f44:13e:820000:0:0:0:
+	#EXTINF:0 tvg-id="ext" group-title="+18",Vivid Red HD
+http://91.228.34.236:8001/	1:0:1:4267:3db8:13e:820000:0:0:0:
+	#EXTINF:0 tvg-id="ext" group-title="+18",Private TV HD
+http://91.228.34.236:8001/	1:0:1:4222:3db8:13e:820000:0:0:0:
+	#EXTINF:0 tvg-id="playboy" group-title="+18",PLAYBOY TV HD
+http://91.228.34.236:8001/	1:0:1:12C8:2E7C:13E:820000:0:0:0:
